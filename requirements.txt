@@ -1,0 +1,11 @@
+bentoml
+joblib
+pip-chill
+torchvision
+tqdm
+wincertstore
+torchsummary
+matplotlib
+opencv-python
+fastapi
+uvicorn
